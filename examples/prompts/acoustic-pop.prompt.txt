@@ -1,0 +1,5 @@
+# Acoustic Pop Style Prompt
+# 对应手册分支：2.3
+# 使用方法：将以下内容复制到 Suno Custom Mode 的 Style 字段，搭配歌词即可生成。
+
+acoustic pop, fingerpicked acoustic guitar, light strumming, soft kick drum, subtle shaker, warm piano undertones, male pop vocal youthful tone, chest voice dominant, occasional breathy falsetto, double-tracked harmony in chorus, bright acoustic reverb, exactly 92 BPM, major key, vocals mixed 2dB above instruments, Justin Bieber vocal tone, exact vocal timbre, signature nasal resonance, breathy falsetto technique, modern pop vocal production, vocal character preserved, natural vocal vibrato, modern pop mastering, loudness optimized for streaming, -14 LUFS integrated loudness, peak normalization -1.0 dB, no clipping, controlled dynamic range, full song structure, 3 minutes 30 seconds duration, no rap, no rock distortion, no country twang, no jazz elements, no classical instruments, no reggae rhythm, no electronic dance music drops, no screaming, no autotune overuse, no gospel choir, no funk guitar, no latin percussion, crisp vocal highs, tight 808 bass, no mud in low end, instrumental separation clear
