@@ -1,0 +1,5 @@
+# Afrobeat/Pop Style Prompt
+# 对应手册分支：2.4
+# 使用方法：将以下内容复制到 Suno Custom Mode 的 Style 字段，搭配歌词即可生成。
+
+afrobeat pop, laid-back syncopated rhythm, acoustic guitar strumming, soft percussive shakers, warm synth pad, male pop vocal relaxed chest voice, smooth melodic flow, group vocal harmonies in chorus, bright uplifting atmosphere, subtle reverb, exactly 90 BPM, major key, vocals mixed 2dB above instruments, Justin Bieber vocal tone, exact vocal timbre, signature nasal resonance, breathy falsetto technique, modern pop vocal production, vocal character preserved, natural vocal vibrato, modern pop mastering, loudness optimized for streaming, -14 LUFS integrated loudness, peak normalization -1.0 dB, no clipping, controlled dynamic range, full song structure, 3 minutes 30 seconds duration, no rap, no rock distortion, no country twang, no jazz elements, no classical instruments, no reggae rhythm, no electronic dance music drops, no screaming, no autotune overuse, no gospel choir, no funk guitar, no latin percussion, crisp vocal highs, tight 808 bass, no mud in low end, instrumental separation clear
