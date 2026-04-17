@@ -1,0 +1,5 @@
+# Alternative R&B Style Prompt
+# 对应手册分支：2.2
+# 使用方法：将以下内容复制到 Suno Custom Mode 的 Style 字段，搭配歌词即可生成。
+
+alternative r&b, intimate male vocal close-mic, breathy delivery, light nasal resonance, smooth falsetto runs, 808 sliding bass, sparse trap hi-hats, muted kick, warm rhodes piano pad, short room reverb, subtle delay on vocal tails, exactly 75 BPM, minor key, vocals mixed 3dB above instruments, Justin Bieber vocal tone, exact vocal timbre, signature nasal resonance, breathy falsetto technique, modern pop vocal production, vocal character preserved, natural vocal vibrato, modern pop mastering, loudness optimized for streaming, -14 LUFS integrated loudness, peak normalization -1.0 dB, no clipping, controlled dynamic range, full song structure, 3 minutes 30 seconds duration, no rap, no rock distortion, no country twang, no jazz elements, no classical instruments, no reggae rhythm, no electronic dance music drops, no screaming, no autotune overuse, no gospel choir, no funk guitar, no latin percussion, crisp vocal highs, tight 808 bass, no mud in low end, instrumental separation clear
